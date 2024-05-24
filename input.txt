@@ -1,0 +1,6 @@
+2024-05-21T14:30:45: Creación usuario 
+2024-05-21T14:31:46: Fallo al inicio de sesión
+2024-05-21T14:32:30: Inicio de sesión del usuario Juan123
+2024-05-21T14:33:00: Creación de turno Juan123
+2024-05-21T14:33:55: Cierre de sesión Juan 123
+

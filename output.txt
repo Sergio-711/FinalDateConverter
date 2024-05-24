@@ -1,0 +1,11 @@
+20240521T143045Z:  Creación usuario 
+
+20240521T143146Z:  Fallo al inicio de sesión
+
+20240521T143230Z:  Inicio de sesión del usuario Juan123
+
+20240521T143300Z:  Creación de turno Juan123
+
+20240521T143355Z:  Cierre de sesión Juan 123
+
+
